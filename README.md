@@ -10,8 +10,8 @@ Now to connect the database:
 
 4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
 5th Step: Then, click on the databases tab
-6th Step: Create a database naming “year3project” and then click on the import tab
-7th Step: Click on browse file and select “year3project.sql” file which is inside the “database” folder
+6th Step: Create a database naming “year2project” and then click on the import tab
+7th Step: Click on browse file and select “year2project.sql” file which is inside the “database” folder
 8th Step: Click on go.
 
 After Creating Database:
